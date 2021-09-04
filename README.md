@@ -6,3 +6,9 @@ The phobias we are including are:\
 | --- | --- |
 | Cat & Dog Model | 85.9% | 81.2% |
 | Horse & Human | 99.51% | 74.22% |
+
+| MODEL | ACCURACY | VALIDATION ACCURACY |
+| --------------- | --------------- | --------------- |
+| Cat & Dog Model | 85.9% | 81.2% |
+| Horse & Human | 99.51% | 74.22% |
+
