@@ -10,3 +10,4 @@ The phobias we are including are:
 | Cat & Dog Model | 85.9% | 81.2% |
 | Horse & Human | 99.51% | 74.22% |
 
+![image](https://user-images.githubusercontent.com/78225681/178306250-31775d82-0da2-4fd5-a95b-295df149767a.png)
